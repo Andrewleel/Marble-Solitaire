@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8798e343-d456-46c2-9791-bfe07b429b32" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FMruKNI5DrzqiSqlYASp2ulgEL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andrewlee/Documents/CS3500/assignment-1-real&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cs3500/marblesolitaire/view" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="cs3500.marblesolitaire" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cs3500.marblesolitaire.model.hw04" />
+      <recent name="cs3500.marblesolitaire.view" />
+      <recent name="cs3500.marblesolitaire.model.hw02" />
+      <recent name="cs3500.marblesolitaire.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MarbleSolitaireTextViewTest">
+    <configuration name="European size 5 hole 4 5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MarbleSolitaire" />
+      <module name="assignment-1-real" />
+      <option name="PROGRAM_PARAMETERS" value="european" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangular " type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MarbleSolitaire" />
+      <module name="assignment-1-real" />
+      <option name="PROGRAM_PARAMETERS" value="triangular -hole 4 0 " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuropeanSolitaireModelTest.testMoveInToExtraValidCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-1-real" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EuropeanSolitaireModelTest" />
+      <option name="METHOD_NAME" value="testMoveInToExtraValidCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuropeanSolitaireModelTest.testMoveToNewCornerCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-1-real" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EuropeanSolitaireModelTest" />
+      <option name="METHOD_NAME" value="testMoveToNewCornerCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarbleSolitaireTextViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-1-real" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarbleSolitaireTextViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarbleSolitaireTextViewTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-1-real" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarbleSolitaireTextViewTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleSolitaireTextViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-1-real" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleSolitaireTextViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.triangular " />
+      <item itemvalue="Application.European size 5 hole 4 5" />
+      <item itemvalue="JUnit.EuropeanSolitaireModelTest.testMoveInToExtraValidCell" />
+      <item itemvalue="JUnit.EuropeanSolitaireModelTest.testMoveToNewCornerCell" />
+      <item itemvalue="JUnit.MarbleSolitaireTextViewTest.testToString" />
+      <item itemvalue="JUnit.MarbleSolitaireTextViewTest" />
+      <item itemvalue="JUnit.TriangleSolitaireTextViewTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MarbleSolitaireTextViewTest" />
+        <item itemvalue="JUnit.EuropeanSolitaireModelTest.testMoveToNewCornerCell" />
+        <item itemvalue="JUnit.MarbleSolitaireTextViewTest.testToString" />
+        <item itemvalue="JUnit.EuropeanSolitaireModelTest.testMoveInToExtraValidCell" />
+        <item itemvalue="JUnit.TriangleSolitaireTextViewTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8798e343-d456-46c2-9791-bfe07b429b32" name="Changes" comment="" />
+      <created>1664313015737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664313015737</updated>
+      <workItem from="1664313017765" duration="23000" />
+      <workItem from="1664313069528" duration="14551000" />
+      <workItem from="1664370998986" duration="59420000" />
+      <workItem from="1664568483080" duration="982000" />
+      <workItem from="1664651211886" duration="156000" />
+      <workItem from="1665470461397" duration="13166000" />
+      <workItem from="1665583017178" duration="17209000" />
+      <workItem from="1665636781185" duration="2983000" />
+      <workItem from="1665666787951" duration="21114000" />
+      <workItem from="1665730323303" duration="50000" />
+      <workItem from="1665769222431" duration="1813000" />
+      <workItem from="1665779221488" duration="1311000" />
+      <workItem from="1665956098493" duration="2759000" />
+      <workItem from="1666064203803" duration="4876000" />
+      <workItem from="1666114744998" duration="25905000" />
+      <workItem from="1666148267492" duration="3217000" />
+      <workItem from="1666185453354" duration="27785000" />
+      <workItem from="1666272204811" duration="2857000" />
+      <workItem from="1666290479884" duration="97000" />
+      <workItem from="1666292972107" duration="6180000" />
+      <workItem from="1668556907850" duration="2889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assignment_1_real$English_size_4.ic" NAME="English size 4 Coverage Results" MODIFIED="1666146519395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
